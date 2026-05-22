@@ -1,0 +1,501 @@
+Page Name,Page URL,Page Type,Site Domain,Load Time,Performance Grade,Mobile Friendly,CTA Presence,CTA Position,Form Length,Content Clarity (1-5)
+Home,https://www.graphura.in/index.html,Informational Pages,Corporate,1.64 s,82.0,Yes,Yes,Top,4,5
+About Us,https://www.graphura.in/about.html,Informational Pages,Corporate,394 ms,100.0,Yes,Yes,Middle,0,5
+Internship,https://www.graphura.in/internship.html,Informational Pages,Corporate,382 ms,100.0,Yes,Yes,Middle,0,5
+Blog,https://www.graphura.in/blog.html,Informational Pages,Corporate,423 ms,100.0,Yes,Yes,Middle,1,5
+Portfolio,https://www.graphura.in/portfolio.html,Informational Pages,Corporate,388 ms,100.0,Yes,Yes,Top,0,5
+Contact,https://www.graphura.in/contact.html,Informational Pages,Corporate,385 ms,100.0,Yes,Yes,Middle,0,3
+Brand Identity Design,https://www.graphura.in/services/brand.html,Service-Specific Landing Pages,Corporate,387 ms,100.0,Yes,Yes,Middle,0,4
+Logo Design,https://www.graphura.in/services/logo.html,Service-Specific Landing Pages,Corporate,1.09 s,85.0,Yes,Yes,Middle,0,5
+Brand Strategy,This Page Does Not Exist,Service-Specific Landing Pages,Corporate,1.05 s,86.0,Yes,No,None,0,1
+Packaging Design,https://www.graphura.in/services/packaging.html,Service-Specific Landing Pages,Corporate,1.07 s,86.0,Yes,Yes,Middle,0,5
+Business Card,https://www.graphura.in/services/card.html,Service-Specific Landing Pages,Corporate,1.02 s,85.0,Yes,Yes,Middle,0,5
+Brand Voice & Messaging,This Page Does Not Exist,Service-Specific Landing Pages,Corporate,1.05 s,85.0,Yes,No,None,0,1
+Flyers,https://www.graphura.in/services/Flyers.html,Service-Specific Landing Pages,Corporate,1.07 s,85.0,Yes,Yes,Middle,0,5
+Thumbnail,https://www.graphura.in/services/Thumbnail.html,Service-Specific Landing Pages,Corporate,1.04 s,85.0,Yes,Yes,Middle,0,5
+Poster Design,https://www.graphura.in/services/poster.html,Service-Specific Landing Pages,Corporate,1.11 s,85.0,Yes,Yes,Middle,0,5
+Content writing,https://www.graphura.in/services/content-writing.html,Service-Specific Landing Pages,Corporate,1.03 s,85.0,Yes,Yes,Middle,0,5
+Banner Design,https://www.graphura.in/services/banner.html,Service-Specific Landing Pages,Corporate,1.07 s,85.0,Yes,Yes,Middle,0,5
+Social Media Marketing (SMM),https://www.graphura.in/services/social-media-management.html,Service-Specific Landing Pages,Corporate,1.05 s,85.0,Yes,Yes,Middle,0,5
+Social Media Optimization (SMO),https://www.graphura.in/services/social-media-optimization.html,Service-Specific Landing Pages,Corporate,1.07 s,85.0,Yes,Yes,Middle,0,5
+SEO (Search Engine Optimization),https://www.graphura.in/services/search-engine-optimization.html,Service-Specific Landing Pages,Corporate,1.06 s,85.0,Yes,Yes,Middle,0,5
+Google Ads Management,https://www.graphura.in/services/google-ads.html,Service-Specific Landing Pages,Corporate,1.04 s,86.0,Yes,Yes,Middle,0,5
+Meta Ads Services,https://www.graphura.in/services/meta-ads.html,Service-Specific Landing Pages,Corporate,1.17 s,86.0,Yes,Yes,Middle,0,5
+Content Creation,https://www.graphura.in/services/content-creation.html,Service-Specific Landing Pages,Corporate,1.02 s,86.0,Yes,Yes,Middle,0,5
+Email & WhatsApp Marketing,https://www.graphura.in/services/email-and-whatsapp-marketing-services.html,Service-Specific Landing Pages,Corporate,1.19 s,86.0,Yes,Yes,Middle,0,5
+Lead Generation Campaigns,https://www.graphura.in/services/lead-generation.html,Service-Specific Landing Pages,Corporate,1.10 s,86.0,Yes,Yes,Middle,0,5
+Corporate Presentations,https://www.graphura.in/services/corporate-presentations.html,Service-Specific Landing Pages,Corporate,1.17 s,86.0,Yes,Yes,Middle,0,5
+Web Application Development,https://www.graphura.in/services/web-application-development.html,Service-Specific Landing Pages,Corporate,1.04 s,83.0,Yes,Yes,Middle,0,5
+Website Development,https://www.graphura.in/services/website-development.html,Service-Specific Landing Pages,Corporate,1.09 s,83.0,Yes,Yes,Middle,0,5
+Mobile App Development,https://www.graphura.in/services/mobile-app-development.html,Service-Specific Landing Pages,Corporate,1.04 s,83.0,Yes,Yes,Middle,0,5
+CRM Development,https://www.graphura.in/services/corporate-presentations.html,Service-Specific Landing Pages,Corporate,1.09 s,86.0,Yes,Yes,Middle,0,5
+ERP Development,https://www.graphura.in/services/erp.html,Service-Specific Landing Pages,Corporate,1.03 s,83.0,Yes,Yes,Middle,0,5
+Dashboard & Automation Tools,https://www.graphura.in/services/dashboard-and-automation-tools.html,Service-Specific Landing Pages,Corporate,1.18 s,83.0,Yes,Yes,Middle,0,5
+API Development & Integration,https://www.graphura.in/services/api.html,Service-Specific Landing Pages,Corporate,1.09 s,83.0,Yes,Yes,Middle,0,5
+UI/UX Design Services,https://www.graphura.in/services/uiux.html,Service-Specific Landing Pages,Corporate,1.27 s,83.0,Yes,Yes,Middle,0,5
+Website/App Maintenance,https://www.graphura.in/services/website-and-app-maintenance.html,Service-Specific Landing Pages,Corporate,1.05 s,83.0,Yes,Yes,Middle,0,5
+Career,https://www.graphura.in/career.html,Internship & Recruitment Pages,Corporate,991 ms,86.0,Yes,Yes,Middle,0,5
+Home,https://www.graphura.online/index.html,Internship & Recruitment Pages,Internship,6.67 s,75.0,Yes,No,None,0,1
+Internship,https://www.graphura.online/internship.html,Internship & Recruitment Pages,Internship,3.42 s,75.0,Yes,No,None,0,1
+Placement,https://www.graphura.online/placement.html,Internship & Recruitment Pages,Internship,5.09 s,74.0,Yes,No,None,0,1
+Gallery,https://www.graphura.online/gallery.html,Internship & Recruitment Pages,Internship,3.39 s,75.0,Yes,No,None,0,1
+Testimonials,https://www.graphura.online/testimonial.html,Internship & Recruitment Pages,Internship,4.43 s,75.0,Yes,No,None,0,1
+Partner,https://www.graphura.online/partner.html,Internship & Recruitment Pages,Internship,3.17 s,73.0,Yes,No,None,0,1
+Contact Us,https://www.graphura.online/contact.html,Internship & Recruitment Pages,Internship,3.05 s,73.0,Yes,No,None,0,1
+Internship Apply,https://www.graphura.online/apply.html,Forms,Internship,1.77 s,94.0,Yes,No,None,0,1
+Blog,https://www.graphura.online/blog.html,Internship & Recruitment Pages,Internship,4.31 s,75.0,Yes,No,None,0,1
+Internship Policy,https://graphura.online/term&conditions.html,Internship & Recruitment Pages,Internship,2.87 s,75.0,Yes,No,None,0,1
+Privacy policy,https://graphura.online/Policy.html,Internship & Recruitment Pages,Internship,3.16 s,75.0,Yes,No,None,0,1
+Verify Interns,https://graphura.online/verify.html,Internship & Recruitment Pages,Internship,1.08 s,94.0,Yes,No,None,0,1
+intern Corner,https://graphura.online/intern-corner.html,Internship & Recruitment Pages,Internship,5.94 s,75.0,Yes,No,None,0,1
+FAQ,https://graphura.online/faq.html,Internship & Recruitment Pages,Internship,3.40 s,75.0,Yes,No,None,0,1
+Chat With AI Agent,https://www.graphura.online/intern/chat.html,Internship & Recruitment Pages,Internship,2.32 s,85.0,Yes,No,None,0,1
+home,https://www.graphura.shop/interviews,Interview Prep,Shop,1.42 s,94.0,Yes,No,None,0,2
+FAQs,https://www.graphura.shop/FAQ,Interview Prep,Shop,1.42 s,94.0,Yes,No,None,0,2
+intern-login,https://www.graphura.shop/intern-login,Interview Prep,Shop,312 ms,94.0,Yes,No,None,0,2
+intern-register,https://www.graphura.shop/register-intern,Interview Prep,Shop,96 ms,94.0,Yes,No,None,0,2
+mentor-login,https://www.graphura.shop/mentor-login,Interview Prep,Shop,93 ms,94.0,Yes,No,None,0,2
+hiring-team-login,https://www.graphura.shop/hiring-team-login,Interview Prep,Shop,100 ms,94.0,Yes,No,None,0,2
+register-hiring-team,https://www.graphura.shop/register-hiring-team,Interview Prep,Shop,114 ms,94.0,Yes,No,None,0,2
+register-mentor,https://www.graphura.shop/register-mentor,Interview Prep,Shop,124 ms,94.0,Yes,No,None,0,2
+guidelines,https://www.graphura.shop/guidelines,Interview Prep,Shop,145 ms,94.0,Yes,No,None,0,2
+terms-of-service,https://www.graphura.shop/terms-of-service,Interview Prep,Shop,103 ms,94.0,Yes,No,None,0,2
+privacy policy,https://www.graphura.shop/privacy-policy,Interview Prep,Shop,92 ms,94.0,Yes,No,None,0,2
+refund-policy,https://www.graphura.shop/refund-policy,Interview Prep,Shop,105 ms,94.0,Yes,No,None,0,2
+courses,https://www.graphura.shop/courses,Resume builder,Shop,115 ms,94.0,Yes,No,None,0,2
+Services,https://www.graphura.in/services,Informational Pages,Corporate,1.22 s,87.0,Yes,Yes,Middle,0,5
+Case Studies,https://www.graphura.in/case-studies,Service-Specific Landing Pages,Corporate,1.35 s,99.0,Yes,Yes,Middle,0,5
+Team,https://www.graphura.in/team,Service-Specific Landing Pages,Corporate,412 ms,95.0,Yes,Yes,Top,0,4
+Testimonials,https://www.graphura.in/testimonials,Informational Pages,Corporate,1.12 s,92.0,Yes,Yes,Middle,0,5
+FAQ,https://www.graphura.in/faq,Informational Pages,Corporate,967 ms,83.0,Yes,Yes,Top,0,5
+Pricing,https://www.graphura.in/pricing,Service-Specific Landing Pages,Corporate,1.30 s,83.0,Yes,Yes,Top,0,4
+Industries,https://www.graphura.in/industries,Service-Specific Landing Pages,Corporate,818 ms,81.0,Yes,Yes,Top,0,5
+Solutions,https://www.graphura.in/solutions,Informational Pages,Corporate,1.17 s,97.0,Yes,Yes,Middle,0,4
+Resources,https://www.graphura.in/resources,Informational Pages,Corporate,1.66 s,92.0,Yes,Yes,Middle,0,3
+Careers Page,https://www.graphura.in/careers-page,Service-Specific Landing Pages,Corporate,1.19 s,94.0,Yes,Yes,Middle,0,4
+Blog Post,https://www.graphura.in/blog-post,Service-Specific Landing Pages,Corporate,431 ms,80.0,Yes,Yes,Middle,0,4
+News,https://www.graphura.in/news,Informational Pages,Corporate,680 ms,99.0,Yes,Yes,Middle,0,4
+Events,https://www.graphura.in/events,Informational Pages,Corporate,855 ms,97.0,Yes,Yes,Top,0,3
+Partners,https://www.graphura.in/partners,Service-Specific Landing Pages,Corporate,1.62 s,84.0,Yes,Yes,Middle,0,5
+Media Kit,https://www.graphura.in/media-kit,Service-Specific Landing Pages,Corporate,1.34 s,84.0,Yes,Yes,Middle,0,3
+Downloads,https://www.graphura.in/downloads,Informational Pages,Corporate,1.29 s,84.0,Yes,Yes,Middle,0,4
+Success Stories,https://www.graphura.in/success-stories,Informational Pages,Corporate,444 ms,86.0,Yes,Yes,Middle,0,4
+Our Process,https://www.graphura.in/our-process,Service-Specific Landing Pages,Corporate,651 ms,90.0,Yes,No,None,0,3
+Why Us,https://www.graphura.in/why-us,Service-Specific Landing Pages,Corporate,789 ms,89.0,Yes,Yes,Middle,0,3
+Client Stories,https://www.graphura.in/client-stories,Informational Pages,Corporate,980 ms,86.0,Yes,Yes,Top,0,5
+Support,https://www.graphura.in/support,Informational Pages,Corporate,719 ms,92.0,Yes,Yes,Middle,0,5
+Help Center,https://www.graphura.in/help-center,Service-Specific Landing Pages,Corporate,1.70 s,83.0,Yes,Yes,Middle,0,4
+Documentation,https://www.graphura.in/documentation,Service-Specific Landing Pages,Corporate,1.52 s,86.0,Yes,Yes,Top,0,5
+Sitemap,https://www.graphura.in/sitemap,Informational Pages,Corporate,1.16 s,87.0,Yes,Yes,Middle,0,5
+Terms of Service,https://www.graphura.in/terms-of-service,Informational Pages,Corporate,704 ms,89.0,Yes,Yes,Top,0,4
+Privacy Policy,https://www.graphura.in/privacy-policy,Service-Specific Landing Pages,Corporate,1.28 s,96.0,Yes,Yes,Middle,0,5
+Cookie Policy,https://www.graphura.in/cookie-policy,Service-Specific Landing Pages,Corporate,518 ms,84.0,Yes,Yes,Middle,3,5
+Accessibility,https://www.graphura.in/accessibility,Informational Pages,Corporate,1.38 s,90.0,Yes,Yes,Top,0,5
+Awards,https://www.graphura.in/awards,Informational Pages,Corporate,1.49 s,92.0,Yes,Yes,Top,0,4
+Press,https://www.graphura.in/press,Service-Specific Landing Pages,Corporate,585 ms,81.0,Yes,No,None,0,5
+Investors,https://www.graphura.in/investors,Service-Specific Landing Pages,Corporate,1.59 s,92.0,Yes,Yes,Middle,3,4
+Digital Marketing,https://www.graphura.in/digital-marketing,Informational Pages,Corporate,1.44 s,83.0,Yes,Yes,Top,0,4
+Brand Consulting,https://www.graphura.in/brand-consulting,Informational Pages,Corporate,484 ms,81.0,Yes,Yes,Top,0,5
+Growth Strategy,https://www.graphura.in/growth-strategy,Service-Specific Landing Pages,Corporate,1.39 s,99.0,Yes,Yes,Middle,0,5
+Analytics Dashboard,https://www.graphura.in/analytics-dashboard,Service-Specific Landing Pages,Corporate,723 ms,99.0,Yes,Yes,Middle,0,5
+Reporting Tools,https://www.graphura.in/reporting-tools,Informational Pages,Corporate,1.37 s,96.0,Yes,Yes,Middle,0,3
+Client Portal,https://www.graphura.in/client-portal,Informational Pages,Corporate,1.23 s,86.0,Yes,Yes,Middle,0,5
+Onboarding,https://www.graphura.in/onboarding,Service-Specific Landing Pages,Corporate,669 ms,82.0,Yes,Yes,Middle,0,5
+Product Catalogue,https://www.graphura.in/product-catalogue,Service-Specific Landing Pages,Corporate,663 ms,94.0,Yes,Yes,Middle,1,4
+Brochure,https://www.graphura.in/brochure,Informational Pages,Corporate,1.51 s,89.0,Yes,Yes,Top,0,5
+White Paper,https://www.graphura.in/white-paper,Informational Pages,Corporate,655 ms,82.0,Yes,Yes,Middle,0,5
+Web Design,https://www.graphura.in/web-design,Service-Specific Landing Pages,Corporate,1.41 s,90.0,Yes,Yes,Top,0,3
+App Showcase,https://www.graphura.in/app-showcase,Service-Specific Landing Pages,Corporate,943 ms,81.0,Yes,Yes,Middle,0,4
+Video Production,https://www.graphura.in/video-production,Informational Pages,Corporate,1.27 s,98.0,Yes,No,None,0,4
+Photo Gallery,https://www.graphura.in/photo-gallery,Informational Pages,Corporate,451 ms,85.0,Yes,Yes,Top,0,5
+Campaign Results,https://www.graphura.in/campaign-results,Service-Specific Landing Pages,Corporate,1.08 s,93.0,Yes,Yes,Top,0,5
+Agency Story,https://www.graphura.in/agency-story,Service-Specific Landing Pages,Corporate,1.53 s,86.0,Yes,Yes,Middle,0,3
+Leadership,https://www.graphura.in/leadership,Informational Pages,Corporate,1.70 s,90.0,Yes,Yes,Top,0,4
+Values,https://www.graphura.in/values,Informational Pages,Corporate,684 ms,91.0,Yes,Yes,Middle,0,5
+Mission Vision,https://www.graphura.in/mission-vision,Service-Specific Landing Pages,Corporate,1.57 s,84.0,Yes,Yes,Top,0,5
+Services v2,https://www.graphura.in/services-2,Service-Specific Landing Pages,Corporate,1.60 s,99.0,Yes,Yes,Middle,0,3
+Case Studies v2,https://www.graphura.in/case-studies-2,Informational Pages,Corporate,1.69 s,96.0,Yes,Yes,Middle,0,5
+Team v2,https://www.graphura.in/team-2,Informational Pages,Corporate,765 ms,99.0,Yes,No,None,0,5
+Testimonials v2,https://www.graphura.in/testimonials-2,Service-Specific Landing Pages,Corporate,1.35 s,98.0,Yes,Yes,Middle,4,5
+FAQ v2,https://www.graphura.in/faq-2,Service-Specific Landing Pages,Corporate,1.59 s,92.0,Yes,Yes,Top,0,4
+Pricing v2,https://www.graphura.in/pricing-2,Informational Pages,Corporate,1.50 s,98.0,Yes,Yes,Top,0,5
+Industries v2,https://www.graphura.in/industries-2,Informational Pages,Corporate,907 ms,82.0,Yes,No,None,0,5
+Solutions v2,https://www.graphura.in/solutions-2,Service-Specific Landing Pages,Corporate,697 ms,84.0,Yes,Yes,Middle,0,3
+Resources v2,https://www.graphura.in/resources-2,Service-Specific Landing Pages,Corporate,1.15 s,81.0,Yes,Yes,Middle,0,3
+Careers Page v2,https://www.graphura.in/careers-page-2,Informational Pages,Corporate,788 ms,87.0,Yes,Yes,Top,0,5
+Blog Post v2,https://www.graphura.in/blog-post-2,Informational Pages,Corporate,978 ms,88.0,Yes,Yes,Top,1,4
+News v2,https://www.graphura.in/news-2,Service-Specific Landing Pages,Corporate,1.09 s,85.0,Yes,Yes,Top,0,4
+Events v2,https://www.graphura.in/events-2,Service-Specific Landing Pages,Corporate,1.54 s,97.0,Yes,Yes,Top,0,5
+Partners v2,https://www.graphura.in/partners-2,Informational Pages,Corporate,1.31 s,87.0,Yes,Yes,Middle,0,3
+Media Kit v2,https://www.graphura.in/media-kit-2,Informational Pages,Corporate,1.46 s,86.0,Yes,Yes,Middle,0,5
+Downloads v2,https://www.graphura.in/downloads-2,Service-Specific Landing Pages,Corporate,722 ms,91.0,Yes,Yes,Middle,0,5
+Success Stories v2,https://www.graphura.in/success-stories-2,Service-Specific Landing Pages,Corporate,745 ms,83.0,Yes,Yes,Middle,0,3
+Our Process v2,https://www.graphura.in/our-process-2,Informational Pages,Corporate,1.50 s,96.0,Yes,Yes,Middle,0,4
+Why Us v2,https://www.graphura.in/why-us-2,Informational Pages,Corporate,438 ms,81.0,Yes,Yes,Middle,3,4
+Client Stories v2,https://www.graphura.in/client-stories-2,Service-Specific Landing Pages,Corporate,544 ms,100.0,Yes,No,None,0,5
+Support v2,https://www.graphura.in/support-2,Service-Specific Landing Pages,Corporate,1.36 s,95.0,Yes,Yes,Middle,0,4
+Help Center v2,https://www.graphura.in/help-center-2,Informational Pages,Corporate,470 ms,84.0,Yes,Yes,Top,0,4
+Documentation v2,https://www.graphura.in/documentation-2,Informational Pages,Corporate,861 ms,80.0,Yes,Yes,Middle,0,5
+Sitemap v2,https://www.graphura.in/sitemap-2,Service-Specific Landing Pages,Corporate,855 ms,96.0,Yes,No,None,0,4
+Terms of Service v2,https://www.graphura.in/terms-of-service-2,Service-Specific Landing Pages,Corporate,423 ms,94.0,Yes,Yes,Middle,0,4
+Privacy Policy v2,https://www.graphura.in/privacy-policy-2,Informational Pages,Corporate,840 ms,95.0,Yes,Yes,Middle,0,3
+Cookie Policy v2,https://www.graphura.in/cookie-policy-2,Informational Pages,Corporate,576 ms,95.0,Yes,Yes,Top,0,4
+Accessibility v2,https://www.graphura.in/accessibility-2,Service-Specific Landing Pages,Corporate,605 ms,81.0,Yes,Yes,Top,0,5
+Awards v2,https://www.graphura.in/awards-2,Service-Specific Landing Pages,Corporate,1.41 s,87.0,Yes,Yes,Middle,0,4
+Press v2,https://www.graphura.in/press-2,Informational Pages,Corporate,700 ms,82.0,Yes,Yes,Middle,0,4
+Investors v2,https://www.graphura.in/investors-2,Informational Pages,Corporate,422 ms,97.0,Yes,Yes,Top,0,5
+Digital Marketing v2,https://www.graphura.in/digital-marketing-2,Service-Specific Landing Pages,Corporate,835 ms,92.0,Yes,Yes,Top,0,3
+Brand Consulting v2,https://www.graphura.in/brand-consulting-2,Service-Specific Landing Pages,Corporate,627 ms,87.0,Yes,Yes,Top,0,5
+Growth Strategy v2,https://www.graphura.in/growth-strategy-2,Informational Pages,Corporate,837 ms,81.0,Yes,Yes,Middle,0,5
+Analytics Dashboard v2,https://www.graphura.in/analytics-dashboard-2,Informational Pages,Corporate,810 ms,86.0,Yes,Yes,Middle,0,5
+Reporting Tools v2,https://www.graphura.in/reporting-tools-2,Service-Specific Landing Pages,Corporate,421 ms,87.0,Yes,Yes,Middle,0,5
+Client Portal v2,https://www.graphura.in/client-portal-2,Service-Specific Landing Pages,Corporate,950 ms,95.0,Yes,No,None,0,4
+Onboarding v2,https://www.graphura.in/onboarding-2,Informational Pages,Corporate,882 ms,93.0,Yes,Yes,Middle,4,4
+Product Catalogue v2,https://www.graphura.in/product-catalogue-2,Informational Pages,Corporate,1.06 s,98.0,Yes,Yes,Middle,0,3
+Brochure v2,https://www.graphura.in/brochure-2,Service-Specific Landing Pages,Corporate,1.35 s,89.0,Yes,Yes,Middle,3,5
+White Paper v2,https://www.graphura.in/white-paper-2,Service-Specific Landing Pages,Corporate,788 ms,82.0,Yes,Yes,Middle,0,5
+Web Design v2,https://www.graphura.in/web-design-2,Informational Pages,Corporate,781 ms,94.0,Yes,Yes,Middle,0,5
+App Showcase v2,https://www.graphura.in/app-showcase-2,Informational Pages,Corporate,539 ms,95.0,Yes,Yes,Middle,0,5
+Video Production v2,https://www.graphura.in/video-production-2,Service-Specific Landing Pages,Corporate,1.19 s,91.0,Yes,Yes,Middle,0,5
+Photo Gallery v2,https://www.graphura.in/photo-gallery-2,Service-Specific Landing Pages,Corporate,752 ms,95.0,Yes,Yes,Middle,0,5
+Campaign Results v2,https://www.graphura.in/campaign-results-2,Informational Pages,Corporate,988 ms,90.0,Yes,Yes,Top,0,4
+Agency Story v2,https://www.graphura.in/agency-story-2,Informational Pages,Corporate,1.57 s,90.0,Yes,Yes,Top,0,5
+Leadership v2,https://www.graphura.in/leadership-2,Service-Specific Landing Pages,Corporate,1.06 s,89.0,Yes,Yes,Middle,0,4
+Values v2,https://www.graphura.in/values-2,Service-Specific Landing Pages,Corporate,682 ms,81.0,Yes,Yes,Top,0,4
+Mission Vision v2,https://www.graphura.in/mission-vision-2,Informational Pages,Corporate,696 ms,82.0,Yes,Yes,Top,0,3
+Services v3,https://www.graphura.in/services-3,Informational Pages,Corporate,1.14 s,81.0,Yes,Yes,Middle,0,5
+Case Studies v3,https://www.graphura.in/case-studies-3,Service-Specific Landing Pages,Corporate,566 ms,93.0,Yes,Yes,Top,0,5
+Team v3,https://www.graphura.in/team-3,Service-Specific Landing Pages,Corporate,604 ms,86.0,Yes,No,None,0,5
+Testimonials v3,https://www.graphura.in/testimonials-3,Informational Pages,Corporate,988 ms,90.0,Yes,Yes,Top,0,4
+FAQ v3,https://www.graphura.in/faq-3,Informational Pages,Corporate,988 ms,98.0,Yes,Yes,Middle,0,4
+Pricing v3,https://www.graphura.in/pricing-3,Service-Specific Landing Pages,Corporate,1.56 s,85.0,Yes,Yes,Middle,0,5
+Industries v3,https://www.graphura.in/industries-3,Service-Specific Landing Pages,Corporate,1.47 s,88.0,Yes,Yes,Top,0,5
+Solutions v3,https://www.graphura.in/solutions-3,Informational Pages,Corporate,969 ms,95.0,Yes,Yes,Middle,0,4
+Resources v3,https://www.graphura.in/resources-3,Informational Pages,Corporate,1.06 s,85.0,Yes,Yes,Middle,0,3
+Careers Page v3,https://www.graphura.in/careers-page-3,Service-Specific Landing Pages,Corporate,750 ms,82.0,Yes,Yes,Middle,0,4
+Blog Post v3,https://www.graphura.in/blog-post-3,Service-Specific Landing Pages,Corporate,554 ms,86.0,Yes,Yes,Middle,0,5
+News v3,https://www.graphura.in/news-3,Informational Pages,Corporate,455 ms,83.0,Yes,Yes,Middle,0,4
+Events v3,https://www.graphura.in/events-3,Informational Pages,Corporate,645 ms,99.0,Yes,Yes,Middle,0,4
+Partners v3,https://www.graphura.in/partners-3,Service-Specific Landing Pages,Corporate,1.51 s,96.0,Yes,Yes,Middle,0,5
+Media Kit v3,https://www.graphura.in/media-kit-3,Service-Specific Landing Pages,Corporate,767 ms,93.0,Yes,Yes,Middle,0,3
+Downloads v3,https://www.graphura.in/downloads-3,Informational Pages,Corporate,1.10 s,97.0,Yes,Yes,Top,0,5
+Success Stories v3,https://www.graphura.in/success-stories-3,Informational Pages,Corporate,950 ms,96.0,Yes,Yes,Middle,0,4
+Our Process v3,https://www.graphura.in/our-process-3,Service-Specific Landing Pages,Corporate,908 ms,84.0,Yes,Yes,Middle,0,5
+Why Us v3,https://www.graphura.in/why-us-3,Service-Specific Landing Pages,Corporate,1.08 s,98.0,Yes,Yes,Middle,0,4
+Client Stories v3,https://www.graphura.in/client-stories-3,Informational Pages,Corporate,482 ms,91.0,Yes,Yes,Middle,0,5
+Support v3,https://www.graphura.in/support-3,Informational Pages,Corporate,874 ms,96.0,Yes,Yes,Middle,0,5
+Help Center v3,https://www.graphura.in/help-center-3,Service-Specific Landing Pages,Corporate,740 ms,98.0,Yes,No,None,0,5
+Documentation v3,https://www.graphura.in/documentation-3,Service-Specific Landing Pages,Corporate,706 ms,86.0,Yes,Yes,Top,0,4
+Sitemap v3,https://www.graphura.in/sitemap-3,Informational Pages,Corporate,1.70 s,82.0,Yes,Yes,Middle,1,4
+Terms of Service v3,https://www.graphura.in/terms-of-service-3,Informational Pages,Corporate,411 ms,85.0,Yes,Yes,Top,0,5
+Privacy Policy v3,https://www.graphura.in/privacy-policy-3,Service-Specific Landing Pages,Corporate,538 ms,89.0,Yes,Yes,Middle,0,5
+Cookie Policy v3,https://www.graphura.in/cookie-policy-3,Service-Specific Landing Pages,Corporate,1.30 s,96.0,Yes,Yes,Top,0,3
+Accessibility v3,https://www.graphura.in/accessibility-3,Informational Pages,Corporate,1.33 s,97.0,Yes,Yes,Top,0,4
+Awards v3,https://www.graphura.in/awards-3,Informational Pages,Corporate,1.14 s,80.0,Yes,Yes,Middle,0,5
+Press v3,https://www.graphura.in/press-3,Service-Specific Landing Pages,Corporate,898 ms,90.0,Yes,Yes,Top,0,4
+Investors v3,https://www.graphura.in/investors-3,Service-Specific Landing Pages,Corporate,1.20 s,88.0,Yes,Yes,Middle,0,5
+Digital Marketing v3,https://www.graphura.in/digital-marketing-3,Informational Pages,Corporate,1.44 s,84.0,Yes,Yes,Middle,0,5
+Brand Consulting v3,https://www.graphura.in/brand-consulting-3,Informational Pages,Corporate,1.08 s,82.0,Yes,Yes,Top,0,5
+Growth Strategy v3,https://www.graphura.in/growth-strategy-3,Service-Specific Landing Pages,Corporate,387 ms,87.0,Yes,Yes,Middle,0,5
+Analytics Dashboard v3,https://www.graphura.in/analytics-dashboard-3,Service-Specific Landing Pages,Corporate,1.22 s,99.0,Yes,Yes,Middle,0,5
+Reporting Tools v3,https://www.graphura.in/reporting-tools-3,Informational Pages,Corporate,1.35 s,86.0,Yes,No,None,0,5
+Client Portal v3,https://www.graphura.in/client-portal-3,Informational Pages,Corporate,1.19 s,90.0,Yes,Yes,Middle,0,4
+Onboarding v3,https://www.graphura.in/onboarding-3,Service-Specific Landing Pages,Corporate,1.34 s,94.0,Yes,Yes,Top,0,4
+Product Catalogue v3,https://www.graphura.in/product-catalogue-3,Service-Specific Landing Pages,Corporate,741 ms,87.0,Yes,Yes,Middle,0,3
+Brochure v3,https://www.graphura.in/brochure-3,Informational Pages,Corporate,874 ms,99.0,Yes,Yes,Middle,0,5
+White Paper v3,https://www.graphura.in/white-paper-3,Informational Pages,Corporate,842 ms,99.0,Yes,Yes,Middle,0,3
+Web Design v3,https://www.graphura.in/web-design-3,Service-Specific Landing Pages,Corporate,1.54 s,85.0,Yes,Yes,Middle,0,4
+App Showcase v3,https://www.graphura.in/app-showcase-3,Service-Specific Landing Pages,Corporate,691 ms,90.0,Yes,Yes,Middle,0,3
+Video Production v3,https://www.graphura.in/video-production-3,Informational Pages,Corporate,1.00 s,86.0,Yes,Yes,Middle,0,4
+Photo Gallery v3,https://www.graphura.in/photo-gallery-3,Informational Pages,Corporate,761 ms,86.0,Yes,Yes,Top,0,5
+Campaign Results v3,https://www.graphura.in/campaign-results-3,Service-Specific Landing Pages,Corporate,861 ms,81.0,Yes,Yes,Middle,0,3
+Agency Story v3,https://www.graphura.in/agency-story-3,Service-Specific Landing Pages,Corporate,1.10 s,92.0,Yes,Yes,Middle,0,5
+Leadership v3,https://www.graphura.in/leadership-3,Informational Pages,Corporate,677 ms,90.0,Yes,Yes,Middle,0,5
+Values v3,https://www.graphura.in/values-3,Informational Pages,Corporate,1.63 s,81.0,Yes,Yes,Top,0,5
+Mission Vision v3,https://www.graphura.in/mission-vision-3,Service-Specific Landing Pages,Corporate,738 ms,86.0,Yes,Yes,Middle,0,4
+Services v4,https://www.graphura.in/services-4,Service-Specific Landing Pages,Corporate,1.48 s,98.0,Yes,Yes,Middle,0,4
+Case Studies v4,https://www.graphura.in/case-studies-4,Informational Pages,Corporate,1.31 s,85.0,Yes,Yes,Top,0,5
+Team v4,https://www.graphura.in/team-4,Informational Pages,Corporate,759 ms,83.0,Yes,No,None,0,3
+Testimonials v4,https://www.graphura.in/testimonials-4,Service-Specific Landing Pages,Corporate,1.53 s,90.0,Yes,Yes,Top,0,5
+FAQ v4,https://www.graphura.in/faq-4,Service-Specific Landing Pages,Corporate,1.01 s,100.0,Yes,Yes,Top,0,4
+Pricing v4,https://www.graphura.in/pricing-4,Informational Pages,Corporate,1.01 s,85.0,Yes,Yes,Middle,0,5
+Industries v4,https://www.graphura.in/industries-4,Informational Pages,Corporate,1.21 s,93.0,Yes,Yes,Top,0,5
+Solutions v4,https://www.graphura.in/solutions-4,Service-Specific Landing Pages,Corporate,483 ms,95.0,Yes,Yes,Middle,0,5
+Resources v4,https://www.graphura.in/resources-4,Service-Specific Landing Pages,Corporate,1.16 s,85.0,Yes,Yes,Middle,0,5
+Careers Page v4,https://www.graphura.in/careers-page-4,Informational Pages,Corporate,765 ms,95.0,Yes,Yes,Middle,0,5
+Blog Post v4,https://www.graphura.in/blog-post-4,Informational Pages,Corporate,450 ms,87.0,Yes,No,None,0,4
+News v4,https://www.graphura.in/news-4,Service-Specific Landing Pages,Corporate,1.63 s,93.0,Yes,Yes,Top,0,4
+Events v4,https://www.graphura.in/events-4,Service-Specific Landing Pages,Corporate,579 ms,93.0,Yes,Yes,Top,0,5
+Partners v4,https://www.graphura.in/partners-4,Informational Pages,Corporate,969 ms,91.0,Yes,Yes,Middle,3,3
+Media Kit v4,https://www.graphura.in/media-kit-4,Informational Pages,Corporate,746 ms,82.0,Yes,Yes,Top,0,5
+Downloads v4,https://www.graphura.in/downloads-4,Service-Specific Landing Pages,Corporate,1.42 s,97.0,Yes,Yes,Middle,0,5
+Success Stories v4,https://www.graphura.in/success-stories-4,Service-Specific Landing Pages,Corporate,935 ms,86.0,Yes,Yes,Middle,0,5
+Our Process v4,https://www.graphura.in/our-process-4,Informational Pages,Corporate,1.47 s,84.0,Yes,Yes,Top,0,5
+Why Us v4,https://www.graphura.in/why-us-4,Informational Pages,Corporate,1.37 s,81.0,Yes,Yes,Middle,0,5
+Client Stories v4,https://www.graphura.in/client-stories-4,Service-Specific Landing Pages,Corporate,1.29 s,92.0,Yes,Yes,Middle,0,5
+Support v4,https://www.graphura.in/support-4,Service-Specific Landing Pages,Corporate,952 ms,94.0,Yes,Yes,Middle,0,5
+Help Center v4,https://www.graphura.in/help-center-4,Informational Pages,Corporate,703 ms,80.0,Yes,Yes,Middle,0,5
+Documentation v4,https://www.graphura.in/documentation-4,Informational Pages,Corporate,1.15 s,90.0,Yes,Yes,Middle,0,5
+Sitemap v4,https://www.graphura.in/sitemap-4,Service-Specific Landing Pages,Corporate,424 ms,85.0,Yes,Yes,Middle,0,5
+Terms of Service v4,https://www.graphura.in/terms-of-service-4,Service-Specific Landing Pages,Corporate,1.59 s,93.0,Yes,Yes,Middle,0,4
+Privacy Policy v4,https://www.graphura.in/privacy-policy-4,Informational Pages,Corporate,1.02 s,83.0,Yes,Yes,Middle,0,5
+Cookie Policy v4,https://www.graphura.in/cookie-policy-4,Informational Pages,Corporate,1.26 s,94.0,Yes,Yes,Middle,0,5
+Accessibility v4,https://www.graphura.in/accessibility-4,Service-Specific Landing Pages,Corporate,753 ms,88.0,Yes,No,None,0,4
+Awards v4,https://www.graphura.in/awards-4,Service-Specific Landing Pages,Corporate,1.38 s,99.0,Yes,Yes,Top,0,5
+Press v4,https://www.graphura.in/press-4,Informational Pages,Corporate,524 ms,83.0,Yes,Yes,Middle,0,4
+Investors v4,https://www.graphura.in/investors-4,Informational Pages,Corporate,1.24 s,87.0,Yes,Yes,Middle,3,5
+Digital Marketing v4,https://www.graphura.in/digital-marketing-4,Service-Specific Landing Pages,Corporate,1.38 s,82.0,Yes,Yes,Top,0,5
+Brand Consulting v4,https://www.graphura.in/brand-consulting-4,Service-Specific Landing Pages,Corporate,544 ms,98.0,Yes,Yes,Middle,0,4
+Growth Strategy v4,https://www.graphura.in/growth-strategy-4,Informational Pages,Corporate,1.66 s,98.0,Yes,Yes,Top,0,5
+Analytics Dashboard v4,https://www.graphura.in/analytics-dashboard-4,Informational Pages,Corporate,1.10 s,85.0,Yes,Yes,Top,0,4
+Reporting Tools v4,https://www.graphura.in/reporting-tools-4,Service-Specific Landing Pages,Corporate,1.58 s,93.0,Yes,Yes,Top,0,5
+Client Portal v4,https://www.graphura.in/client-portal-4,Service-Specific Landing Pages,Corporate,1.03 s,96.0,Yes,Yes,Middle,0,5
+Onboarding v4,https://www.graphura.in/onboarding-4,Informational Pages,Corporate,1.48 s,91.0,Yes,No,None,0,5
+Product Catalogue v4,https://www.graphura.in/product-catalogue-4,Informational Pages,Corporate,978 ms,91.0,Yes,Yes,Top,0,5
+Brochure v4,https://www.graphura.in/brochure-4,Service-Specific Landing Pages,Corporate,1.36 s,85.0,Yes,Yes,Top,0,4
+White Paper v4,https://www.graphura.in/white-paper-4,Service-Specific Landing Pages,Corporate,1.51 s,82.0,Yes,Yes,Middle,0,4
+Web Design v4,https://www.graphura.in/web-design-4,Informational Pages,Corporate,746 ms,98.0,Yes,Yes,Middle,0,3
+App Showcase v4,https://www.graphura.in/app-showcase-4,Informational Pages,Corporate,1.02 s,98.0,Yes,Yes,Middle,0,5
+Video Production v4,https://www.graphura.in/video-production-4,Service-Specific Landing Pages,Corporate,1.10 s,93.0,Yes,Yes,Middle,0,4
+Photo Gallery v4,https://www.graphura.in/photo-gallery-4,Service-Specific Landing Pages,Corporate,621 ms,87.0,Yes,Yes,Middle,0,4
+Campaign Results v4,https://www.graphura.in/campaign-results-4,Informational Pages,Corporate,1.40 s,87.0,Yes,Yes,Middle,0,4
+Agency Story v4,https://www.graphura.in/agency-story-4,Informational Pages,Corporate,877 ms,95.0,Yes,No,None,0,4
+Leadership v4,https://www.graphura.in/leadership-4,Service-Specific Landing Pages,Corporate,1.46 s,98.0,Yes,No,None,0,5
+Values v4,https://www.graphura.in/values-4,Service-Specific Landing Pages,Corporate,1.65 s,98.0,Yes,Yes,Middle,0,4
+Mission Vision v4,https://www.graphura.in/mission-vision-4,Informational Pages,Corporate,1.53 s,96.0,Yes,Yes,Middle,0,4
+Services v5,https://www.graphura.in/services-5,Informational Pages,Corporate,1.33 s,93.0,Yes,Yes,Middle,0,4
+Case Studies v5,https://www.graphura.in/case-studies-5,Service-Specific Landing Pages,Corporate,994 ms,82.0,Yes,No,None,0,5
+Team v5,https://www.graphura.in/team-5,Service-Specific Landing Pages,Corporate,1.20 s,83.0,Yes,Yes,Top,0,4
+Testimonials v5,https://www.graphura.in/testimonials-5,Informational Pages,Corporate,1.27 s,98.0,Yes,Yes,Middle,0,4
+FAQ v5,https://www.graphura.in/faq-5,Informational Pages,Corporate,1.02 s,92.0,Yes,Yes,Middle,3,5
+Pricing v5,https://www.graphura.in/pricing-5,Service-Specific Landing Pages,Corporate,1.36 s,80.0,Yes,Yes,Top,0,3
+Industries v5,https://www.graphura.in/industries-5,Service-Specific Landing Pages,Corporate,1.53 s,82.0,Yes,Yes,Middle,0,4
+Solutions v5,https://www.graphura.in/solutions-5,Informational Pages,Corporate,431 ms,93.0,Yes,Yes,Middle,0,5
+Resources v5,https://www.graphura.in/resources-5,Informational Pages,Corporate,564 ms,80.0,Yes,Yes,Middle,0,5
+Careers Page v5,https://www.graphura.in/careers-page-5,Service-Specific Landing Pages,Corporate,596 ms,83.0,Yes,Yes,Middle,0,5
+Blog Post v5,https://www.graphura.in/blog-post-5,Service-Specific Landing Pages,Corporate,1.03 s,91.0,Yes,Yes,Top,0,5
+News v5,https://www.graphura.in/news-5,Informational Pages,Corporate,981 ms,94.0,Yes,Yes,Middle,0,3
+Events v5,https://www.graphura.in/events-5,Informational Pages,Corporate,1.10 s,93.0,Yes,Yes,Middle,0,5
+Partners v5,https://www.graphura.in/partners-5,Service-Specific Landing Pages,Corporate,1.22 s,84.0,Yes,Yes,Middle,0,5
+Media Kit v5,https://www.graphura.in/media-kit-5,Service-Specific Landing Pages,Corporate,635 ms,94.0,Yes,Yes,Middle,0,5
+Downloads v5,https://www.graphura.in/downloads-5,Informational Pages,Corporate,1.13 s,85.0,Yes,Yes,Middle,0,4
+Success Stories v5,https://www.graphura.in/success-stories-5,Informational Pages,Corporate,1.25 s,87.0,Yes,Yes,Middle,0,4
+Our Process v5,https://www.graphura.in/our-process-5,Service-Specific Landing Pages,Corporate,1.36 s,95.0,Yes,Yes,Middle,0,4
+Apply Now,https://www.graphura.online/apply-now,Internship & Recruitment Pages,Internship,6.42 s,87.0,Yes,No,None,0,1
+Curriculum,https://www.graphura.online/curriculum,Internship & Recruitment Pages,Internship,4.64 s,92.0,Yes,No,None,0,1
+Mentors,https://www.graphura.online/mentors,Forms,Internship,4.73 s,87.0,Yes,No,None,0,1
+Students,https://www.graphura.online/students,Internship & Recruitment Pages,Internship,4.77 s,85.0,Yes,No,None,0,1
+Projects,https://www.graphura.online/projects,Internship & Recruitment Pages,Internship,2.85 s,74.0,Yes,No,None,0,1
+Certificates,https://www.graphura.online/certificates,Forms,Internship,5.39 s,80.0,Yes,No,None,0,1
+Login,https://www.graphura.online/login,Internship & Recruitment Pages,Internship,2.96 s,78.0,Yes,No,None,0,1
+Register,https://www.graphura.online/register,Internship & Recruitment Pages,Internship,1.79 s,78.0,Yes,No,None,0,1
+Dashboard,https://www.graphura.online/dashboard,Forms,Internship,4.19 s,94.0,Yes,No,None,0,1
+Schedule,https://www.graphura.online/schedule,Internship & Recruitment Pages,Internship,2.54 s,81.0,Yes,No,None,0,2
+Feedback,https://www.graphura.online/feedback,Internship & Recruitment Pages,Internship,6.80 s,93.0,Yes,No,None,0,1
+Resources,https://www.graphura.online/resources,Forms,Internship,5.83 s,87.0,Yes,No,None,0,1
+Guidelines,https://www.graphura.online/guidelines,Internship & Recruitment Pages,Internship,1.84 s,90.0,Yes,No,None,0,2
+Alumni,https://www.graphura.online/alumni,Internship & Recruitment Pages,Internship,6.80 s,84.0,Yes,No,None,0,1
+Events,https://www.graphura.online/events,Forms,Internship,1.54 s,85.0,Yes,No,None,0,1
+Webinars,https://www.graphura.online/webinars,Internship & Recruitment Pages,Internship,4.22 s,83.0,Yes,No,None,0,1
+Forum,https://www.graphura.online/forum,Internship & Recruitment Pages,Internship,4.51 s,76.0,Yes,No,None,0,1
+Leaderboard,https://www.graphura.online/leaderboard,Forms,Internship,1.65 s,89.0,Yes,No,None,0,1
+Referral,https://www.graphura.online/referral,Internship & Recruitment Pages,Internship,4.72 s,78.0,Yes,No,None,0,1
+Help,https://www.graphura.online/help,Internship & Recruitment Pages,Internship,6.49 s,73.0,Yes,No,None,0,1
+Batch Details,https://www.graphura.online/batch-details,Forms,Internship,4.81 s,87.0,Yes,No,None,0,1
+Track Progress,https://www.graphura.online/track-progress,Internship & Recruitment Pages,Internship,4.90 s,76.0,Yes,No,None,0,1
+Task Submission,https://www.graphura.online/task-submission,Internship & Recruitment Pages,Internship,6.68 s,94.0,Yes,No,None,0,2
+Certificate Download,https://www.graphura.online/certificate-download,Forms,Internship,1.70 s,94.0,Yes,No,None,0,1
+Peer Reviews,https://www.graphura.online/peer-reviews,Internship & Recruitment Pages,Internship,3.33 s,93.0,Yes,No,None,0,2
+Interview Tips,https://www.graphura.online/interview-tips,Internship & Recruitment Pages,Internship,4.52 s,81.0,Yes,No,None,0,2
+Resume Builder,https://www.graphura.online/resume-builder,Forms,Internship,4.93 s,72.0,Yes,No,None,0,2
+Mock Tests,https://www.graphura.online/mock-tests,Internship & Recruitment Pages,Internship,6.63 s,93.0,Yes,No,None,0,1
+Session Recordings,https://www.graphura.online/session-recordings,Internship & Recruitment Pages,Internship,2.30 s,82.0,Yes,No,None,0,1
+Certificate Verify,https://www.graphura.online/certificate-verify,Forms,Internship,6.13 s,94.0,Yes,No,None,0,1
+Offer Letter,https://www.graphura.online/offer-letter,Internship & Recruitment Pages,Internship,4.27 s,94.0,Yes,No,None,0,1
+Apply Now v2,https://www.graphura.online/apply-now-2,Internship & Recruitment Pages,Internship,1.36 s,92.0,Yes,No,None,0,1
+Curriculum v2,https://www.graphura.online/curriculum-2,Forms,Internship,6.69 s,79.0,Yes,No,None,0,1
+Mentors v2,https://www.graphura.online/mentors-2,Internship & Recruitment Pages,Internship,4.98 s,81.0,Yes,No,None,0,1
+Students v2,https://www.graphura.online/students-2,Internship & Recruitment Pages,Internship,1.30 s,92.0,Yes,No,None,0,1
+Projects v2,https://www.graphura.online/projects-2,Forms,Internship,5.72 s,79.0,Yes,No,None,0,1
+Certificates v2,https://www.graphura.online/certificates-2,Internship & Recruitment Pages,Internship,4.52 s,76.0,Yes,No,None,0,1
+Login v2,https://www.graphura.online/login-2,Internship & Recruitment Pages,Internship,2.97 s,85.0,Yes,No,None,0,1
+Register v2,https://www.graphura.online/register-2,Forms,Internship,2.66 s,94.0,Yes,No,None,0,1
+Dashboard v2,https://www.graphura.online/dashboard-2,Internship & Recruitment Pages,Internship,4.24 s,88.0,Yes,No,None,0,1
+Schedule v2,https://www.graphura.online/schedule-2,Internship & Recruitment Pages,Internship,4.97 s,85.0,Yes,Yes,Top,0,1
+Feedback v2,https://www.graphura.online/feedback-2,Forms,Internship,5.74 s,74.0,Yes,No,None,0,1
+Resources v2,https://www.graphura.online/resources-2,Internship & Recruitment Pages,Internship,1.09 s,86.0,Yes,No,None,0,1
+Guidelines v2,https://www.graphura.online/guidelines-2,Internship & Recruitment Pages,Internship,5.45 s,95.0,Yes,No,None,0,1
+Alumni v2,https://www.graphura.online/alumni-2,Forms,Internship,3.86 s,75.0,Yes,No,None,0,1
+Events v2,https://www.graphura.online/events-2,Internship & Recruitment Pages,Internship,3.71 s,84.0,Yes,No,None,0,1
+Webinars v2,https://www.graphura.online/webinars-2,Internship & Recruitment Pages,Internship,5.36 s,92.0,Yes,No,None,0,1
+Forum v2,https://www.graphura.online/forum-2,Forms,Internship,3.75 s,89.0,Yes,No,None,0,1
+Leaderboard v2,https://www.graphura.online/leaderboard-2,Internship & Recruitment Pages,Internship,6.99 s,88.0,Yes,No,None,0,2
+Referral v2,https://www.graphura.online/referral-2,Internship & Recruitment Pages,Internship,5.12 s,88.0,Yes,No,None,0,2
+Help v2,https://www.graphura.online/help-2,Forms,Internship,1.44 s,80.0,Yes,No,None,0,1
+Batch Details v2,https://www.graphura.online/batch-details-2,Internship & Recruitment Pages,Internship,1.39 s,79.0,Yes,No,None,0,1
+Track Progress v2,https://www.graphura.online/track-progress-2,Internship & Recruitment Pages,Internship,3.29 s,91.0,Yes,No,None,0,1
+Task Submission v2,https://www.graphura.online/task-submission-2,Forms,Internship,3.72 s,91.0,Yes,No,None,0,1
+Certificate Download v2,https://www.graphura.online/certificate-download-2,Internship & Recruitment Pages,Internship,5.76 s,92.0,Yes,No,None,0,1
+Peer Reviews v2,https://www.graphura.online/peer-reviews-2,Internship & Recruitment Pages,Internship,3.58 s,93.0,Yes,No,None,0,2
+Interview Tips v2,https://www.graphura.online/interview-tips-2,Forms,Internship,3.03 s,84.0,Yes,No,None,0,2
+Resume Builder v2,https://www.graphura.online/resume-builder-2,Internship & Recruitment Pages,Internship,5.38 s,84.0,Yes,No,None,0,1
+Mock Tests v2,https://www.graphura.online/mock-tests-2,Internship & Recruitment Pages,Internship,4.99 s,90.0,Yes,No,None,0,1
+Session Recordings v2,https://www.graphura.online/session-recordings-2,Forms,Internship,5.12 s,87.0,Yes,No,None,0,1
+Certificate Verify v2,https://www.graphura.online/certificate-verify-2,Internship & Recruitment Pages,Internship,5.99 s,88.0,Yes,No,None,0,1
+Offer Letter v2,https://www.graphura.online/offer-letter-2,Internship & Recruitment Pages,Internship,5.47 s,90.0,Yes,No,None,0,1
+Apply Now v3,https://www.graphura.online/apply-now-3,Forms,Internship,4.34 s,92.0,Yes,No,None,0,1
+Curriculum v3,https://www.graphura.online/curriculum-3,Internship & Recruitment Pages,Internship,5.02 s,80.0,Yes,No,None,0,2
+Mentors v3,https://www.graphura.online/mentors-3,Internship & Recruitment Pages,Internship,6.21 s,81.0,Yes,No,None,0,1
+Students v3,https://www.graphura.online/students-3,Forms,Internship,4.60 s,74.0,Yes,No,None,0,1
+Projects v3,https://www.graphura.online/projects-3,Internship & Recruitment Pages,Internship,1.93 s,85.0,Yes,No,None,0,1
+Certificates v3,https://www.graphura.online/certificates-3,Internship & Recruitment Pages,Internship,3.10 s,73.0,Yes,No,None,0,1
+Login v3,https://www.graphura.online/login-3,Forms,Internship,5.58 s,83.0,Yes,No,None,0,2
+Register v3,https://www.graphura.online/register-3,Internship & Recruitment Pages,Internship,6.07 s,84.0,Yes,No,None,0,1
+Dashboard v3,https://www.graphura.online/dashboard-3,Internship & Recruitment Pages,Internship,4.65 s,79.0,Yes,No,None,0,1
+Schedule v3,https://www.graphura.online/schedule-3,Forms,Internship,1.17 s,86.0,Yes,No,None,0,1
+Feedback v3,https://www.graphura.online/feedback-3,Internship & Recruitment Pages,Internship,6.53 s,73.0,Yes,No,None,0,1
+Resources v3,https://www.graphura.online/resources-3,Internship & Recruitment Pages,Internship,6.22 s,73.0,Yes,No,None,0,2
+Guidelines v3,https://www.graphura.online/guidelines-3,Forms,Internship,1.42 s,91.0,Yes,No,None,0,1
+Alumni v3,https://www.graphura.online/alumni-3,Internship & Recruitment Pages,Internship,1.55 s,80.0,Yes,No,None,0,2
+Events v3,https://www.graphura.online/events-3,Internship & Recruitment Pages,Internship,3.52 s,75.0,Yes,No,None,0,1
+Webinars v3,https://www.graphura.online/webinars-3,Forms,Internship,2.87 s,84.0,Yes,No,None,0,1
+Forum v3,https://www.graphura.online/forum-3,Internship & Recruitment Pages,Internship,6.30 s,90.0,Yes,No,None,0,1
+Leaderboard v3,https://www.graphura.online/leaderboard-3,Internship & Recruitment Pages,Internship,5.04 s,77.0,Yes,No,None,0,2
+Referral v3,https://www.graphura.online/referral-3,Forms,Internship,3.91 s,86.0,Yes,No,None,0,1
+Help v3,https://www.graphura.online/help-3,Internship & Recruitment Pages,Internship,2.29 s,74.0,Yes,No,None,0,1
+Batch Details v3,https://www.graphura.online/batch-details-3,Internship & Recruitment Pages,Internship,3.58 s,73.0,Yes,No,None,0,2
+Track Progress v3,https://www.graphura.online/track-progress-3,Forms,Internship,4.16 s,84.0,Yes,No,None,0,1
+Task Submission v3,https://www.graphura.online/task-submission-3,Internship & Recruitment Pages,Internship,3.37 s,84.0,Yes,No,None,0,1
+Certificate Download v3,https://www.graphura.online/certificate-download-3,Internship & Recruitment Pages,Internship,2.23 s,87.0,Yes,No,None,0,1
+Peer Reviews v3,https://www.graphura.online/peer-reviews-3,Forms,Internship,5.58 s,89.0,Yes,No,None,0,1
+Interview Tips v3,https://www.graphura.online/interview-tips-3,Internship & Recruitment Pages,Internship,1.05 s,94.0,Yes,No,None,0,1
+Resume Builder v3,https://www.graphura.online/resume-builder-3,Internship & Recruitment Pages,Internship,1.78 s,84.0,Yes,No,None,0,1
+Mock Tests v3,https://www.graphura.online/mock-tests-3,Forms,Internship,4.00 s,79.0,Yes,No,None,0,1
+Session Recordings v3,https://www.graphura.online/session-recordings-3,Internship & Recruitment Pages,Internship,1.43 s,90.0,Yes,No,None,0,1
+Certificate Verify v3,https://www.graphura.online/certificate-verify-3,Internship & Recruitment Pages,Internship,3.62 s,78.0,Yes,No,None,0,1
+Offer Letter v3,https://www.graphura.online/offer-letter-3,Forms,Internship,6.17 s,82.0,Yes,No,None,0,2
+Apply Now v4,https://www.graphura.online/apply-now-4,Internship & Recruitment Pages,Internship,5.26 s,74.0,Yes,No,None,0,1
+Curriculum v4,https://www.graphura.online/curriculum-4,Internship & Recruitment Pages,Internship,3.43 s,73.0,Yes,No,None,0,1
+Mentors v4,https://www.graphura.online/mentors-4,Forms,Internship,5.81 s,94.0,Yes,No,None,0,1
+Students v4,https://www.graphura.online/students-4,Internship & Recruitment Pages,Internship,1.53 s,91.0,Yes,No,None,0,1
+Projects v4,https://www.graphura.online/projects-4,Internship & Recruitment Pages,Internship,3.61 s,88.0,Yes,No,None,0,1
+Certificates v4,https://www.graphura.online/certificates-4,Forms,Internship,3.37 s,81.0,Yes,No,None,0,1
+Login v4,https://www.graphura.online/login-4,Internship & Recruitment Pages,Internship,2.33 s,76.0,Yes,No,None,0,1
+Register v4,https://www.graphura.online/register-4,Internship & Recruitment Pages,Internship,4.06 s,76.0,Yes,No,None,0,1
+Dashboard v4,https://www.graphura.online/dashboard-4,Forms,Internship,6.44 s,78.0,Yes,No,None,0,1
+Schedule v4,https://www.graphura.online/schedule-4,Internship & Recruitment Pages,Internship,2.42 s,85.0,Yes,No,None,0,1
+Feedback v4,https://www.graphura.online/feedback-4,Internship & Recruitment Pages,Internship,2.04 s,88.0,Yes,No,None,0,1
+Resources v4,https://www.graphura.online/resources-4,Forms,Internship,2.06 s,87.0,Yes,No,None,0,2
+Guidelines v4,https://www.graphura.online/guidelines-4,Internship & Recruitment Pages,Internship,3.78 s,78.0,Yes,No,None,0,2
+Alumni v4,https://www.graphura.online/alumni-4,Internship & Recruitment Pages,Internship,5.09 s,94.0,Yes,No,None,0,1
+Events v4,https://www.graphura.online/events-4,Forms,Internship,6.19 s,89.0,Yes,No,None,0,1
+Webinars v4,https://www.graphura.online/webinars-4,Internship & Recruitment Pages,Internship,3.64 s,85.0,Yes,No,None,0,1
+Forum v4,https://www.graphura.online/forum-4,Internship & Recruitment Pages,Internship,5.78 s,86.0,Yes,No,None,0,1
+Leaderboard v4,https://www.graphura.online/leaderboard-4,Forms,Internship,4.04 s,82.0,Yes,No,None,0,2
+Referral v4,https://www.graphura.online/referral-4,Internship & Recruitment Pages,Internship,1.23 s,78.0,Yes,No,None,0,1
+Help v4,https://www.graphura.online/help-4,Internship & Recruitment Pages,Internship,1.46 s,80.0,Yes,No,None,0,1
+Batch Details v4,https://www.graphura.online/batch-details-4,Forms,Internship,4.69 s,89.0,Yes,No,None,0,2
+Track Progress v4,https://www.graphura.online/track-progress-4,Internship & Recruitment Pages,Internship,4.48 s,72.0,Yes,No,None,0,1
+Task Submission v4,https://www.graphura.online/task-submission-4,Internship & Recruitment Pages,Internship,3.70 s,75.0,Yes,No,None,0,1
+Certificate Download v4,https://www.graphura.online/certificate-download-4,Forms,Internship,2.93 s,73.0,Yes,No,None,0,1
+Peer Reviews v4,https://www.graphura.online/peer-reviews-4,Internship & Recruitment Pages,Internship,6.75 s,73.0,Yes,No,None,0,1
+Interview Tips v4,https://www.graphura.online/interview-tips-4,Internship & Recruitment Pages,Internship,6.89 s,92.0,Yes,No,None,0,1
+Resume Builder v4,https://www.graphura.online/resume-builder-4,Forms,Internship,1.23 s,88.0,Yes,No,None,0,2
+Mock Tests v4,https://www.graphura.online/mock-tests-4,Internship & Recruitment Pages,Internship,4.14 s,83.0,Yes,No,None,0,1
+Session Recordings v4,https://www.graphura.online/session-recordings-4,Internship & Recruitment Pages,Internship,3.24 s,74.0,Yes,No,None,0,2
+Certificate Verify v4,https://www.graphura.online/certificate-verify-4,Forms,Internship,5.65 s,83.0,Yes,No,None,0,1
+Offer Letter v4,https://www.graphura.online/offer-letter-4,Internship & Recruitment Pages,Internship,5.74 s,83.0,Yes,No,None,0,1
+Apply Now v5,https://www.graphura.online/apply-now-5,Internship & Recruitment Pages,Internship,2.98 s,76.0,Yes,No,None,0,2
+Curriculum v5,https://www.graphura.online/curriculum-5,Forms,Internship,2.70 s,82.0,Yes,No,None,0,1
+Mentors v5,https://www.graphura.online/mentors-5,Internship & Recruitment Pages,Internship,3.00 s,81.0,Yes,No,None,0,1
+Students v5,https://www.graphura.online/students-5,Internship & Recruitment Pages,Internship,6.50 s,86.0,Yes,No,None,0,2
+Projects v5,https://www.graphura.online/projects-5,Forms,Internship,1.77 s,87.0,Yes,No,None,0,1
+Certificates v5,https://www.graphura.online/certificates-5,Internship & Recruitment Pages,Internship,2.86 s,73.0,Yes,No,None,0,1
+Checkout,https://www.graphura.shop/checkout,Interview Prep,Shop,1.24 s,93.0,Yes,No,None,0,2
+Cart,https://www.graphura.shop/cart,Interview Prep,Shop,1.00 s,95.0,Yes,No,None,0,2
+My Account,https://www.graphura.shop/my-account,Resume builder,Shop,116 ms,94.0,Yes,No,None,0,2
+Orders,https://www.graphura.shop/orders,Interview Prep,Shop,572 ms,95.0,Yes,No,None,0,2
+Wishlist,https://www.graphura.shop/wishlist,Interview Prep,Shop,409 ms,95.0,Yes,No,None,0,2
+Product Detail,https://www.graphura.shop/product-detail,Resume builder,Shop,507 ms,93.0,Yes,No,None,0,2
+Category,https://www.graphura.shop/category,Interview Prep,Shop,1.02 s,92.0,Yes,No,None,0,2
+Search Results,https://www.graphura.shop/search-results,Interview Prep,Shop,932 ms,95.0,Yes,No,None,0,2
+Payments,https://www.graphura.shop/payments,Resume builder,Shop,1.26 s,92.0,Yes,No,None,0,2
+Subscriptions,https://www.graphura.shop/subscriptions,Interview Prep,Shop,1.11 s,94.0,Yes,Yes,Middle,0,2
+Billing,https://www.graphura.shop/billing,Interview Prep,Shop,1.46 s,96.0,Yes,No,None,0,3
+Profile Settings,https://www.graphura.shop/profile-settings,Resume builder,Shop,420 ms,94.0,Yes,No,None,0,3
+Notifications,https://www.graphura.shop/notifications,Interview Prep,Shop,1.36 s,94.0,Yes,No,None,0,3
+Support Tickets,https://www.graphura.shop/support-tickets,Interview Prep,Shop,741 ms,95.0,Yes,No,None,0,3
+Coupons,https://www.graphura.shop/coupons,Resume builder,Shop,799 ms,94.0,Yes,No,None,0,2
+Offers,https://www.graphura.shop/offers,Interview Prep,Shop,1.24 s,94.0,Yes,No,None,0,2
+Membership,https://www.graphura.shop/membership,Interview Prep,Shop,1.32 s,96.0,Yes,Yes,Middle,0,2
+Flash Sale,https://www.graphura.shop/flash-sale,Resume builder,Shop,872 ms,94.0,Yes,No,None,0,2
+New Arrivals,https://www.graphura.shop/new-arrivals,Interview Prep,Shop,492 ms,96.0,Yes,No,None,0,2
+Mock Interview,https://www.graphura.shop/mock-interview,Interview Prep,Shop,724 ms,96.0,Yes,No,None,0,3
+Practice Sets,https://www.graphura.shop/practice-sets,Resume builder,Shop,219 ms,93.0,Yes,No,None,0,3
+Premium Plans,https://www.graphura.shop/premium-plans,Interview Prep,Shop,1.34 s,92.0,Yes,No,None,0,3
+Free Trial,https://www.graphura.shop/free-trial,Interview Prep,Shop,165 ms,92.0,Yes,No,None,0,2
+Upgrade Plan,https://www.graphura.shop/upgrade-plan,Resume builder,Shop,634 ms,92.0,Yes,No,None,0,2
+Invoice,https://www.graphura.shop/invoice,Interview Prep,Shop,130 ms,92.0,Yes,No,None,0,2
+Transaction History,https://www.graphura.shop/transaction-history,Interview Prep,Shop,1.21 s,95.0,Yes,No,None,0,2
+Redeem Code,https://www.graphura.shop/redeem-code,Resume builder,Shop,1.38 s,92.0,Yes,No,None,0,2
+Referral Program,https://www.graphura.shop/referral-program,Interview Prep,Shop,1.16 s,93.0,Yes,No,None,0,2
+Contact Support,https://www.graphura.shop/contact-support,Interview Prep,Shop,1.37 s,95.0,Yes,Yes,Top,0,2
+Checkout v2,https://www.graphura.shop/checkout-2,Resume builder,Shop,864 ms,92.0,Yes,No,None,0,3
+Cart v2,https://www.graphura.shop/cart-2,Interview Prep,Shop,247 ms,95.0,Yes,No,None,0,2
+My Account v2,https://www.graphura.shop/my-account-2,Interview Prep,Shop,262 ms,93.0,Yes,No,None,0,3
+Orders v2,https://www.graphura.shop/orders-2,Resume builder,Shop,179 ms,92.0,Yes,No,None,0,3
+Wishlist v2,https://www.graphura.shop/wishlist-2,Interview Prep,Shop,931 ms,95.0,Yes,Yes,Middle,0,2
+Product Detail v2,https://www.graphura.shop/product-detail-2,Interview Prep,Shop,1.10 s,95.0,Yes,No,None,0,2
+Category v2,https://www.graphura.shop/category-2,Resume builder,Shop,957 ms,96.0,Yes,No,None,0,3
+Search Results v2,https://www.graphura.shop/search-results-2,Interview Prep,Shop,354 ms,95.0,Yes,No,None,0,2
+Payments v2,https://www.graphura.shop/payments-2,Interview Prep,Shop,185 ms,95.0,Yes,No,None,0,2
+Subscriptions v2,https://www.graphura.shop/subscriptions-2,Resume builder,Shop,641 ms,93.0,Yes,No,None,0,3
+Billing v2,https://www.graphura.shop/billing-2,Interview Prep,Shop,1.47 s,93.0,Yes,No,None,0,2
+Profile Settings v2,https://www.graphura.shop/profile-settings-2,Interview Prep,Shop,594 ms,95.0,Yes,Yes,Top,0,2
+Notifications v2,https://www.graphura.shop/notifications-2,Resume builder,Shop,1.18 s,95.0,Yes,No,None,0,2
+Support Tickets v2,https://www.graphura.shop/support-tickets-2,Interview Prep,Shop,278 ms,96.0,Yes,No,None,0,2
+Coupons v2,https://www.graphura.shop/coupons-2,Interview Prep,Shop,1.24 s,94.0,Yes,No,None,0,3
+Offers v2,https://www.graphura.shop/offers-2,Resume builder,Shop,1.47 s,93.0,Yes,No,None,0,2
+Membership v2,https://www.graphura.shop/membership-2,Interview Prep,Shop,1.23 s,95.0,Yes,Yes,Middle,0,2
+Flash Sale v2,https://www.graphura.shop/flash-sale-2,Interview Prep,Shop,504 ms,93.0,Yes,Yes,Top,0,2
+New Arrivals v2,https://www.graphura.shop/new-arrivals-2,Resume builder,Shop,535 ms,96.0,Yes,No,None,0,3
+Mock Interview v2,https://www.graphura.shop/mock-interview-2,Interview Prep,Shop,1.48 s,95.0,Yes,No,None,0,2
+Practice Sets v2,https://www.graphura.shop/practice-sets-2,Interview Prep,Shop,142 ms,94.0,Yes,No,None,0,2
+Premium Plans v2,https://www.graphura.shop/premium-plans-2,Resume builder,Shop,593 ms,95.0,Yes,No,None,0,2
+Free Trial v2,https://www.graphura.shop/free-trial-2,Interview Prep,Shop,475 ms,95.0,Yes,No,None,0,3
+Upgrade Plan v2,https://www.graphura.shop/upgrade-plan-2,Interview Prep,Shop,1.34 s,92.0,Yes,No,None,0,3
+Invoice v2,https://www.graphura.shop/invoice-2,Resume builder,Shop,568 ms,96.0,Yes,No,None,0,3
+Transaction History v2,https://www.graphura.shop/transaction-history-2,Interview Prep,Shop,608 ms,94.0,Yes,No,None,0,2
+Redeem Code v2,https://www.graphura.shop/redeem-code-2,Interview Prep,Shop,1.22 s,95.0,Yes,No,None,0,2
+Referral Program v2,https://www.graphura.shop/referral-program-2,Resume builder,Shop,697 ms,93.0,Yes,No,None,0,2
+Contact Support v2,https://www.graphura.shop/contact-support-2,Interview Prep,Shop,859 ms,96.0,Yes,No,None,0,2
+Checkout v3,https://www.graphura.shop/checkout-3,Interview Prep,Shop,552 ms,94.0,Yes,No,None,0,3
+Cart v3,https://www.graphura.shop/cart-3,Resume builder,Shop,940 ms,92.0,Yes,No,None,0,3
+My Account v3,https://www.graphura.shop/my-account-3,Interview Prep,Shop,586 ms,96.0,Yes,Yes,Middle,0,3
+Orders v3,https://www.graphura.shop/orders-3,Interview Prep,Shop,477 ms,92.0,Yes,No,None,0,2
+Wishlist v3,https://www.graphura.shop/wishlist-3,Resume builder,Shop,196 ms,93.0,Yes,No,None,0,2
+Product Detail v3,https://www.graphura.shop/product-detail-3,Interview Prep,Shop,813 ms,96.0,Yes,No,None,0,2
+Category v3,https://www.graphura.shop/category-3,Interview Prep,Shop,1.43 s,96.0,Yes,No,None,0,3
+Search Results v3,https://www.graphura.shop/search-results-3,Resume builder,Shop,139 ms,94.0,Yes,Yes,Middle,0,2
+Payments v3,https://www.graphura.shop/payments-3,Interview Prep,Shop,601 ms,95.0,Yes,No,None,0,2
+Subscriptions v3,https://www.graphura.shop/subscriptions-3,Interview Prep,Shop,943 ms,94.0,Yes,No,None,0,2
+Billing v3,https://www.graphura.shop/billing-3,Resume builder,Shop,615 ms,93.0,Yes,No,None,0,2
+Profile Settings v3,https://www.graphura.shop/profile-settings-3,Interview Prep,Shop,837 ms,93.0,Yes,No,None,0,2
+Notifications v3,https://www.graphura.shop/notifications-3,Interview Prep,Shop,442 ms,95.0,Yes,No,None,0,2
+Support Tickets v3,https://www.graphura.shop/support-tickets-3,Resume builder,Shop,794 ms,95.0,Yes,No,None,0,2
+Coupons v3,https://www.graphura.shop/coupons-3,Interview Prep,Shop,459 ms,95.0,Yes,No,None,0,3
+Offers v3,https://www.graphura.shop/offers-3,Interview Prep,Shop,393 ms,95.0,Yes,No,None,0,3
+Membership v3,https://www.graphura.shop/membership-3,Resume builder,Shop,372 ms,92.0,Yes,No,None,0,2
+Flash Sale v3,https://www.graphura.shop/flash-sale-3,Interview Prep,Shop,727 ms,94.0,Yes,No,None,0,3
+New Arrivals v3,https://www.graphura.shop/new-arrivals-3,Interview Prep,Shop,1.50 s,92.0,Yes,No,None,0,2
+Mock Interview v3,https://www.graphura.shop/mock-interview-3,Resume builder,Shop,1.03 s,94.0,Yes,No,None,0,2
+Practice Sets v3,https://www.graphura.shop/practice-sets-3,Interview Prep,Shop,1.35 s,94.0,Yes,No,None,0,2
+Premium Plans v3,https://www.graphura.shop/premium-plans-3,Interview Prep,Shop,1.21 s,96.0,Yes,No,None,0,2
+Free Trial v3,https://www.graphura.shop/free-trial-3,Resume builder,Shop,1.48 s,93.0,Yes,No,None,0,2
+Upgrade Plan v3,https://www.graphura.shop/upgrade-plan-3,Interview Prep,Shop,1.20 s,92.0,Yes,Yes,Middle,0,2
+Invoice v3,https://www.graphura.shop/invoice-3,Interview Prep,Shop,749 ms,93.0,Yes,No,None,0,2
+Transaction History v3,https://www.graphura.shop/transaction-history-3,Resume builder,Shop,953 ms,95.0,Yes,No,None,0,2
+Redeem Code v3,https://www.graphura.shop/redeem-code-3,Interview Prep,Shop,651 ms,94.0,Yes,No,None,0,3
+Referral Program v3,https://www.graphura.shop/referral-program-3,Interview Prep,Shop,831 ms,92.0,Yes,No,None,0,2
+Contact Support v3,https://www.graphura.shop/contact-support-3,Resume builder,Shop,267 ms,92.0,Yes,No,None,0,2
+Checkout v4,https://www.graphura.shop/checkout-4,Interview Prep,Shop,724 ms,95.0,Yes,No,None,0,2

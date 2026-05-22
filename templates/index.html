@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Graphura — Conversion Predictor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <!-- ── NAVBAR ── -->
+  <nav class="navbar">
+    <div class="nav-brand">
+      <span class="brand-dot"></span>
+      <span class="brand-name">Graphura</span>
+      <span class="brand-tag">AI</span>
+    </div>
+    <div class="nav-links">
+      <a href="#predictor">Predictor</a>
+      <a href="#model-stats">Model Stats</a>
+      <a href="#how-it-works">How It Works</a>
+    </div>
+    <div class="nav-badge">
+      <span class="pulse"></span> Live Model
+    </div>
+  </nav>
+
+  <!-- ── HERO ── -->
+  <section class="hero">
+    <div class="hero-bg">
+      <div class="orb orb1"></div>
+      <div class="orb orb2"></div>
+      <div class="orb orb3"></div>
+    </div>
+    <div class="hero-content">
+      <div class="hero-chip">🚀 Logistic Regression · 85.60% Accuracy</div>
+      <h1 class="hero-title">
+        Predict Website<br/>
+        <span class="gradient-text">Conversion Rate</span>
+      </h1>
+      <p class="hero-sub">
+        Enter your page details and get an instant AI-powered prediction on whether your page will convert visitors — built for Graphura India.
+      </p>
+      <a href="#predictor" class="hero-btn">
+        Try Predictor <span>→</span>
+      </a>
+    </div>
+    <div class="hero-card-float">
+      <div class="float-card">
+        <div class="float-label">Model Accuracy</div>
+        <div class="float-value">85.60%</div>
+        <div class="float-bar"><div class="float-fill" style="width:85.6%"></div></div>
+      </div>
+      <div class="float-card">
+        <div class="float-label">Dataset Size</div>
+        <div class="float-value">500 Pages</div>
+        <div class="float-bar"><div class="float-fill" style="width:100%"></div></div>
+      </div>
+      <div class="float-card">
+        <div class="float-label">Features Used</div>
+        <div class="float-value">7 Signals</div>
+        <div class="float-bar"><div class="float-fill" style="width:70%"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── MODEL STATS ── -->
+  <section class="stats-section" id="model-stats">
+    <div class="section-label">Model Performance</div>
+    <h2 class="section-title">Why Logistic Regression Wins</h2>
+    <div class="stats-grid">
+      <div class="stat-card best">
+        <div class="stat-icon">🏆</div>
+        <div class="stat-model">Logistic Regression</div>
+        <div class="stat-acc">85.60%</div>
+        <div class="stat-bar-wrap"><div class="stat-bar" style="width:85.6%"></div></div>
+        <div class="stat-badge">Best Model</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon">🌲</div>
+        <div class="stat-model">Random Forest</div>
+        <div class="stat-acc">83.20%</div>
+        <div class="stat-bar-wrap"><div class="stat-bar rf" style="width:83.2%"></div></div>
+        <div class="stat-badge neutral">Runner Up</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon">🌿</div>
+        <div class="stat-model">Decision Tree</div>
+        <div class="stat-acc">80.80%</div>
+        <div class="stat-bar-wrap"><div class="stat-bar dt" style="width:80.8%"></div></div>
+        <div class="stat-badge low">Lowest</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PREDICTOR ── -->
+  <section class="predictor-section" id="predictor">
+    <div class="section-label">AI Predictor</div>
+    <h2 class="section-title">Analyze Your Page</h2>
+    <p class="section-sub">Fill in the details below — our model will predict conversion probability instantly.</p>
+
+    <div class="predictor-wrapper">
+      <!-- FORM -->
+      <div class="form-card">
+        <form id="predictForm">
+
+          <div class="form-group">
+            <label>Page Type</label>
+            <div class="select-wrap">
+              <select name="page_type" id="page_type" required>
+                <option value="" disabled selected>Select page type...</option>
+                {% for pt in page_types %}
+                <option value="{{ pt }}">{{ pt }}</option>
+                {% endfor %}
+              </select>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>CTA Presence</label>
+              <div class="toggle-group" id="cta_presence_group">
+                <button type="button" class="toggle-btn active" data-val="Yes">✓ Yes</button>
+                <button type="button" class="toggle-btn" data-val="No">✗ No</button>
+              </div>
+              <input type="hidden" name="cta_presence" id="cta_presence" value="Yes"/>
+            </div>
+            <div class="form-group">
+              <label>CTA Position</label>
+              <div class="toggle-group" id="cta_position_group">
+                <button type="button" class="toggle-btn active" data-val="Top">↑ Top</button>
+                <button type="button" class="toggle-btn" data-val="Bottom">↓ Bottom</button>
+                <button type="button" class="toggle-btn" data-val="Middle">↔ Middle</button>
+              </div>
+              <input type="hidden" name="cta_position" id="cta_position" value="Top"/>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>Form Length <span class="hint">(fields count)</span></label>
+              <div class="slider-wrap">
+                <input type="range" id="form_length" name="form_length" min="0" max="10" value="3" step="1"/>
+                <span class="slider-val" id="form_length_val">3</span>
+              </div>
+            </div>
+            <div class="form-group">
+              <label>Content Clarity <span class="hint">(1–5)</span></label>
+              <div class="slider-wrap">
+                <input type="range" id="content_clarity" name="content_clarity" min="1" max="5" value="3" step="1"/>
+                <span class="slider-val" id="content_clarity_val">3</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>Performance Grade <span class="hint">(0–100)</span></label>
+              <div class="slider-wrap">
+                <input type="range" id="performance_grade" name="performance_grade" min="0" max="100" value="70" step="1"/>
+                <span class="slider-val" id="performance_grade_val">70</span>
+              </div>
+            </div>
+            <div class="form-group">
+              <label>Load Time <span class="hint">(ms)</span></label>
+              <div class="slider-wrap">
+                <input type="range" id="load_time_ms" name="load_time_ms" min="200" max="5000" value="1500" step="100"/>
+                <span class="slider-val" id="load_time_ms_val">1500 ms</span>
+              </div>
+            </div>
+          </div>
+
+          <button type="submit" class="predict-btn" id="predictBtn">
+            <span id="btnText">⚡ Predict Conversion</span>
+            <span id="btnLoader" class="hidden">Analyzing...</span>
+          </button>
+        </form>
+      </div>
+
+      <!-- RESULT PANEL -->
+      <div class="result-panel" id="resultPanel">
+        <div class="result-placeholder" id="resultPlaceholder">
+          <div class="placeholder-icon">🎯</div>
+          <p>Fill the form and hit <strong>Predict</strong> to see results</p>
+        </div>
+
+        <div class="result-content hidden" id="resultContent">
+          <div class="result-verdict" id="resultVerdict"></div>
+          <div class="result-confidence" id="resultConfidence"></div>
+
+          <div class="donut-wrap">
+            <canvas id="donutChart" width="200" height="200"></canvas>
+            <div class="donut-center">
+              <span id="donutPct"></span>
+              <small>Confidence</small>
+            </div>
+          </div>
+
+          <div class="prob-bars">
+            <div class="prob-row">
+              <span>High Conversion</span>
+              <div class="prob-track">
+                <div class="prob-fill high" id="probHighBar"></div>
+              </div>
+              <span id="probHighVal"></span>
+            </div>
+            <div class="prob-row">
+              <span>Low Conversion</span>
+              <div class="prob-track">
+                <div class="prob-fill low" id="probLowBar"></div>
+              </div>
+              <span id="probLowVal"></span>
+            </div>
+          </div>
+
+          <div class="contrib-section">
+            <div class="contrib-title">Feature Impact</div>
+            <div id="contribBars"></div>
+          </div>
+
+          <div class="tips-section" id="tipsSection"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── HOW IT WORKS ── -->
+  <section class="how-section" id="how-it-works">
+    <div class="section-label">Behind the Scenes</div>
+    <h2 class="section-title">How It Works</h2>
+    <div class="steps-grid">
+      <div class="step-card">
+        <div class="step-num">01</div>
+        <div class="step-icon">📊</div>
+        <h3>Data Collection</h3>
+        <p>500 Graphura website pages audited across 7 key signals including CTA, load time, and content clarity.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-num">02</div>
+        <div class="step-icon">🧠</div>
+        <h3>Model Training</h3>
+        <p>Logistic Regression trained with L2 regularization (C=0.5) on 75% data, validated on 25% holdout set.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-num">03</div>
+        <div class="step-icon">⚡</div>
+        <h3>Live Prediction</h3>
+        <p>Your inputs are scaled, encoded, and passed through the model to return a real-time conversion probability.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-num">04</div>
+        <div class="step-icon">💡</div>
+        <h3>Actionable Tips</h3>
+        <p>Based on feature contributions, the app surfaces specific recommendations to improve your page's conversion.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer class="footer">
+    <div class="footer-brand">
+      <span class="brand-dot"></span> Graphura India Private Limited
+    </div>
+    <p>Website Conversion Optimization · Logistic Regression Model · 85.60% Accuracy</p>
+  </footer>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
